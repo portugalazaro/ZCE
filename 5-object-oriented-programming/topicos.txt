@@ -1,0 +1,13 @@
+1 - Instantiation
+2 - Modifiers/Inheritance
+3 - Interfaces
+4 - Return Types
+5 - Autoload
+6 - Reflection
+7 - Type Hinting
+8 - Class Constants
+9 - Late Static Binding
+10 - Magic (_*) Methods
+11 - Instance Methods & Properties
+12 - SPL
+13 - Traits 

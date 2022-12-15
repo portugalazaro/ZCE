@@ -1,0 +1,5 @@
+1 - SQL
+2 - Joins
+3 - Prepared Statements
+4 - Transactions
+5 - PDO

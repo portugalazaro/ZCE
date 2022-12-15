@@ -1,0 +1,9 @@
+1 - Quoting
+2 - Matching
+3 - Extracting
+4 - Searching
+5 - Replacing
+6 - Formatting
+7 - PCRE
+8 - NOWDOC
+9 - Encodings

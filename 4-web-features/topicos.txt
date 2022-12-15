@@ -1,0 +1,7 @@
+1 - Sessions
+2 - Forms
+3 - GET and POST data
+4 - Cookies
+5 - HTTP Headers
+6 - HTTP Authentication
+7 - HTTP Status Codes

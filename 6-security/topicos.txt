@@ -1,0 +1,13 @@
+1 - Configuration
+2 - Session Security
+3 - Cross-Site Scripting
+4 - Cross-Site Request Forgeries
+5 - SQL Injection
+6 - Remote Code Injection
+7 - Email Injection
+8 - Filter Input
+9 - Escape Output
+10 - Encryption, Hashing algorithms
+11 - File uploads
+12 - PHP Configuration
+13 - Password hashing API 

@@ -1,0 +1,9 @@
+1- Syntax
+2- Operators
+3- Variables
+4- Control Structures
+5- Language Constructs and Functions
+6- Namespaces 
+7- Extensions
+8- Config
+9- Performance/bytecode caching
